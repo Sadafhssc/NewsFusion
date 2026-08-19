@@ -116,6 +116,3 @@ Software Engineering Student and Web Developer
 
 [LinkedIn — Sadaf Javed](https://www.linkedin.com/in/sadaf-javed/?utm_source=chatgpt.com)
 
-## License
-
-This project is available for educational and personal development purposes.
